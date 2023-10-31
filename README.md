@@ -1,5 +1,4 @@
 # preranabajra
-my details
 
 ### Badges
 
