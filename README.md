@@ -1,19 +1,14 @@
 # Hi there 👋, I’m Prerana Bajra
 
 ### 💻 About Me
-I am a passionate **Computer Science & AI enthusiast**, exploring **neuroimaging, machine learning, and data-driven discoveries**.  
+I am a passionate **Computer Science & AI enthusiast**, exploring **neuroimaging, machine learning, and data-driven discoveries**. 
 
-- 🔭 I’m currently working on **brain connectivity and neuroimaging projects**  
-- 🌱 I’m learning **advanced machine learning & AI techniques**  
-- ⚡ Fun fact: I love **building meaningful visualizations** and **digital arts**  
-
----
+- 🔭 I’m currently working on **brain connectivity and neuroimaging projects** - 🌱 I’m learning **advanced machine learning & AI techniques** - ⚡ Fun fact: I love **building meaningful visualizations** and **[digital arts](https://www.instagram.com/mystique_digital_arts?igsh=MWhyajdyb3RuZzQ4cA%3D%3D&utm_source=qr)** ---
 
 ### 🏅 My GitHub Stats
 
 <table>
 <tr>
-  <!-- Left column: Stats + Streak stacked -->
   <td valign="top" width="50%">
     <a href="https://github.com/prerana-bajra">
       <img src="https://github-readme-stats.vercel.app/api?username=prerana-bajra&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" width="100%"/>
@@ -24,7 +19,6 @@ I am a passionate **Computer Science & AI enthusiast**, exploring **neuroimaging
     </a>
   </td>
 
-  <!-- Right column: Top Languages -->
   <td valign="top" width="50%">
     <a href="https://github.com/prerana-bajra">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerana-bajra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="100%"/>
@@ -32,5 +26,3 @@ I am a passionate **Computer Science & AI enthusiast**, exploring **neuroimaging
   </td>
 </tr>
 </table>
-
-
